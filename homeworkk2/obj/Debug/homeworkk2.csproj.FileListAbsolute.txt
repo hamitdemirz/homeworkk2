@@ -1,0 +1,8 @@
+C:\Users\hamit\source\repos\homeworkk2\homeworkk2\bin\Debug\homeworkk2.exe.config
+C:\Users\hamit\source\repos\homeworkk2\homeworkk2\bin\Debug\homeworkk2.exe
+C:\Users\hamit\source\repos\homeworkk2\homeworkk2\bin\Debug\homeworkk2.pdb
+C:\Users\hamit\source\repos\homeworkk2\homeworkk2\obj\Debug\homeworkk2.csproj.AssemblyReference.cache
+C:\Users\hamit\source\repos\homeworkk2\homeworkk2\obj\Debug\homeworkk2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamit\source\repos\homeworkk2\homeworkk2\obj\Debug\homeworkk2.csproj.CoreCompileInputs.cache
+C:\Users\hamit\source\repos\homeworkk2\homeworkk2\obj\Debug\homeworkk2.exe
+C:\Users\hamit\source\repos\homeworkk2\homeworkk2\obj\Debug\homeworkk2.pdb
